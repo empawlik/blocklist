@@ -4,16 +4,11 @@
 0.0.0.0 a.huluad.com
 0.0.0.0 hulu.112.2o7.net
 0.0.0.0 huludev.112.2o7.net
-#0.0.0.0 ll.a.hulu.com  # Uncomment to block Hulu.
-#0.0.0.0 t2.hulu.com            # Uncomment to block Hulu.
-#0.0.0.0 track.hulu.com # Uncomment to block Hulu.
-#0.0.0.0 ad.hulu.com            # Uncomment to block Hulu.
+0.0.0.0 ll.a.hulu.com  # Uncomment to block Hulu.
+0.0.0.0 t2.hulu.com            # Uncomment to block Hulu.
+0.0.0.0 track.hulu.com # Uncomment to block Hulu.
 0.0.0.0 ads.hulu.com.edgesuite.net
-#0.0.0.0 ads.hulu.com           # Uncomment to block Hulu.
-/etc/pihole/list.1.adblock.gjtech.net.domains
-/etc/pihole/list.2.mirror1.malwaredomains.com.domains
-blackhulu.com
-/etc/pihole/list.3.sysctl.org.domains
+0.0.0.0 ads.hulu.com           # Uncomment to block Hulu.
 127.0.0.1        a.huluad.com
 127.0.0.1        ads-a-darwin.hulu.com
 127.0.0.1        ads-v-darwin.hulu.com
@@ -21,14 +16,9 @@ blackhulu.com
 127.0.0.1        hulu.112.2o7.net
 127.0.0.1        huludev.112.2o7.net
 127.0.0.1        ll.a.hulu.com
-/etc/pihole/list.4.zeustracker.abuse.ch.domains
-/etc/pihole/list.5.s3.amazonaws.com.domains
-/etc/pihole/list.6.s3.amazonaws.com.domains
-/etc/pihole/list.7.hosts-file.net.domains
 127.0.0.1       hulu.112.2o7.net
 127.0.0.1       t-ak.hulu.com
 127.0.0.1       t2.hulu.com
 127.0.0.1       t2.huluim.com
 127.0.0.1       tw.i.hulu.com
 127.0.0.1       urlcheck.hulu.com
-/etc/pihole/list.8.raw.githubusercontent.com.domains
