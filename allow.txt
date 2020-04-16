@@ -1,1 +1,2 @@
 trezor.io
+lastpass.com
