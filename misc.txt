@@ -1,2 +1,4 @@
 127.0.0.1 geoip.senic.com
 127.0.0.1 googleadservices.com
+127.0.0.1 adclick.g.doubleclick.net
+127.0.0.1 clickserve.dartsearch.net
