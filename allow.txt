@@ -6,3 +6,4 @@ mtonews.com
 my.xfinity.com
 link.global.id
 izismile.com
+shop.trezor.io
