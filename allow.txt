@@ -7,3 +7,4 @@ my.xfinity.com
 link.global.id
 izismile.com
 shop.trezor.io
+secure.verizon.com
