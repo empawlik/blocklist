@@ -11,3 +11,4 @@ secure.verizon.com
 sothebysrealty.com
 ineosgrenadier.com
 rumble.com
+dns10.quad9.net
