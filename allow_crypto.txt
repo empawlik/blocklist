@@ -1,0 +1,4 @@
+trezor.io
+link.global.id
+shop.trezor.io
+polkadex.trade
