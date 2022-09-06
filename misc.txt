@@ -1,4 +1,5 @@
 bbc.com##div[id="sticky-leaderboard"]
+bbc.com##div[id="sticky-mpu"]
 ||geoip.senic.com
 ||googleadservices.com
 ||adclick.g.doubleclick.net
