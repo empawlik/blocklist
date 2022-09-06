@@ -1,3 +1,4 @@
+bbc.com##div[id="dotcom-leaderboard"]
 ||geoip.senic.com
 ||googleadservices.com
 ||adclick.g.doubleclick.net
