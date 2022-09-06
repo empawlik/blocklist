@@ -6,6 +6,7 @@ dailymail.co.uk##video[class="vjs-tech"]
 dailymail.co.uk##div[class="mpu_puff_wrapper watermark"]
 izismile.com##div[class="right_block fl"]
 izismile.com##div[class="nts-float-container"]
+izismile.com##div[class="nts-container"]
 
 ||geoip.senic.com
 ||googleadservices.com
