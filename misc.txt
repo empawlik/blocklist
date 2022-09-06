@@ -2,6 +2,7 @@ bbc.com##div[id="sticky-leaderboard"]
 bbc.com##div[id="sticky-mpu"]
 dailymail.co.uk##div[class="sticky-container"]
 dailymail.co.uk##div[id="billBoard"]
+dailymail.co.uk##video[class="vjs-tech"]
 
 ||geoip.senic.com
 ||googleadservices.com
