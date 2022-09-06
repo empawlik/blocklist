@@ -1,4 +1,4 @@
-bbc.com##div[id="dotcom-leaderboard"]
+bbc.com##div[id="sticky-leaderboard"]
 ||geoip.senic.com
 ||googleadservices.com
 ||adclick.g.doubleclick.net
