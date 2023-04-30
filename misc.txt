@@ -37,11 +37,11 @@ izismile.com##div[class="nts-container"]
 ||imprlatbmp.taboola.com
 ||api-s2s.taboola.com
 ||wf.taboola.com
-||convlatbmp.taboola.com
-||15.taboola.com
-||vidstat.taboola.com
-||ads-api.twitter.com
-||ads.youtube.com
-||appmetrica.yandex.ru
-||advertising-api-eu.amazon.com
-||adservice.google.com
+0.0.0.0 convlatbmp.taboola.com
+0.0.0.0 15.taboola.com
+0.0.0.0 vidstat.taboola.com
+0.0.0.0 ads-api.twitter.com
+0.0.0.0 ads.youtube.com
+0.0.0.0 appmetrica.yandex.ru
+0.0.0.0 advertising-api-eu.amazon.com
+0.0.0.0 adservice.google.com
