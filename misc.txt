@@ -1,42 +1,42 @@
-bbc.com##div[id="sticky-leaderboard"]
-bbc.com##div[id="sticky-mpu"]
-dailymail.co.uk##div[class="sticky-container"]
-dailymail.co.uk##div[id="billBoard"]
-dailymail.co.uk##video[class="vjs-tech"]
-dailymail.co.uk##div[class="mpu_puff_wrapper watermark"]
-izismile.com##div[class="right_block fl"]
-izismile.com##div[class="nts-float-container"]
-izismile.com##div[class="nts-container"]
-
-||geoip.senic.com
-||googleadservices.com
-||adclick.g.doubleclick.net
-||clickserve.dartsearch.net
-||popup.taboola.com
-||taboola.com
-||cdn.taboolasyndication.com
-||taboolasyndication.com
-||trc.taboola.com
-||images.taboola.com
-||adserver.adtechus.com
-||us-u.openx.net
-||api.taboola.com
-||c2.taboola.com
-||cdn.taboola.com
-||urc.taboolasyndication.com
-||com.edgekey.net
-||taboola.com.edgekey.net
-||esd-secure.taboola.com.edgekey.net
-||api.taboola.com
-||c2.taboola.com
-||cdn.taboola.com
-||urc.taboolasyndication.com
-||taboola.com.edgekey.net
-||esd-secure.taboola.com.edgekey.net
-||img.img-taboola.com
-||imprlatbmp.taboola.com
-||api-s2s.taboola.com
-||wf.taboola.com
+#bbc.com##div[id="sticky-leaderboard"]
+#bbc.com##div[id="sticky-mpu"]
+#dailymail.co.uk##div[class="sticky-container"]
+#dailymail.co.uk##div[id="billBoard"]
+#dailymail.co.uk##video[class="vjs-tech"]
+#dailymail.co.uk##div[class="mpu_puff_wrapper watermark"]
+#izismile.com##div[class="right_block fl"]
+#izismile.com##div[class="nts-float-container"]
+#izismile.com##div[class="nts-container"]
+#
+0.0.0.0 geoip.senic.com
+0.0.0.0 googleadservices.com
+0.0.0.0 adclick.g.doubleclick.net
+0.0.0.0 clickserve.dartsearch.net
+0.0.0.0 popup.taboola.com
+0.0.0.0 taboola.com
+0.0.0.0 cdn.taboolasyndication.com
+0.0.0.0 taboolasyndication.com
+0.0.0.0 trc.taboola.com
+0.0.0.0 images.taboola.com
+0.0.0.0 adserver.adtechus.com
+0.0.0.0 us-u.openx.net
+0.0.0.0 api.taboola.com
+0.0.0.0 c2.taboola.com
+0.0.0.0 cdn.taboola.com
+0.0.0.0 urc.taboolasyndication.com
+0.0.0.0 com.edgekey.net
+0.0.0.0 taboola.com.edgekey.net
+0.0.0.0 esd-secure.taboola.com.edgekey.net
+0.0.0.0 api.taboola.com
+0.0.0.0 c2.taboola.com
+0.0.0.0 cdn.taboola.com
+0.0.0.0 urc.taboolasyndication.com
+0.0.0.0 taboola.com.edgekey.net
+0.0.0.0 esd-secure.taboola.com.edgekey.net
+0.0.0.0 img.img-taboola.com
+0.0.0.0 imprlatbmp.taboola.com
+0.0.0.0 api-s2s.taboola.com
+0.0.0.0 wf.taboola.com
 0.0.0.0 convlatbmp.taboola.com
 0.0.0.0 15.taboola.com
 0.0.0.0 vidstat.taboola.com
