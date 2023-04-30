@@ -43,3 +43,7 @@ izismile.com##div[class="nts-container"]
 ||static.ads-twitter.com
 ||ads-api.twitter.com
 ||ads.youtube.com
+||appmetrica.yandex.ru
+||advertising-api-eu.amazon.com
+||adservice.google.com
+
