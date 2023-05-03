@@ -3,3 +3,4 @@ link.global.id
 shop.trezor.io
 polkadex.trade
 1inch.io
+livecoinwatch.com
