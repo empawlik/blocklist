@@ -1,12 +1,3 @@
-#bbc.com##div[id="sticky-leaderboard"]
-#bbc.com##div[id="sticky-mpu"]
-#dailymail.co.uk##div[class="sticky-container"]
-#dailymail.co.uk##div[id="billBoard"]
-#dailymail.co.uk##video[class="vjs-tech"]
-#dailymail.co.uk##div[class="mpu_puff_wrapper watermark"]
-#izismile.com##div[class="right_block fl"]
-#izismile.com##div[class="nts-float-container"]
-#izismile.com##div[class="nts-container"]
 #
 0.0.0.0 geoip.senic.com
 0.0.0.0 googleadservices.com
