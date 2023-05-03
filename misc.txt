@@ -31,8 +31,8 @@
 0.0.0.0 convlatbmp.taboola.com
 0.0.0.0 15.taboola.com
 0.0.0.0 vidstat.taboola.com
-#0.0.0.0 ads-api.twitter.com
-#0.0.0.0 ads.youtube.com
-#0.0.0.0 appmetrica.yandex.ru
-#0.0.0.0 advertising-api-eu.amazon.com
-#0.0.0.0 adservice.google.com
+0.0.0.0 ads-api.twitter.com
+0.0.0.0 ads.youtube.com
+0.0.0.0 appmetrica.yandex.ru
+0.0.0.0 advertising-api-eu.amazon.com
+0.0.0.0 adservice.google.com
