@@ -18,7 +18,6 @@ hulu.com
 ineosgrenadier.com
 izismile.com
 lastpass.com
-livecoinwatch.com
 locals.com
 mtonews.com
 my.xfinity.com
@@ -35,7 +34,6 @@ sonos.com
 speechify.dev
 sothebysrealty.com
 substack.com
-sushi.com
 tidal.com
 trimble.com
 twitter.com
