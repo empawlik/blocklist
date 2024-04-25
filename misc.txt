@@ -36,3 +36,4 @@
 0.0.0.0 adtago.*.amazonaws.com
 0.0.0.0 analyticsengine.*.amazonaws.com
 0.0.0.0 cdn.taboolasyndication.com
+0.0.0.0 openwebmedia.org
