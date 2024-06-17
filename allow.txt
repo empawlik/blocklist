@@ -12,3 +12,10 @@ dns10.quad9.net
 adguardteam.github.io
 cbssports.com
 santanderconsumerusa.com
+api.openai.com
+auth0.openai.com
+chat.openai.com
+platform.openai.com
+ws.openai.com
+cdn.openai.com
+auth0.openai.com
