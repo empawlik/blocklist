@@ -47,3 +47,8 @@ platform.openai.com
 ws.openai.com
 cdn.openai.com
 auth0.openai.com
+myqnapcloud.com
+letsencrypt.org
+acme-v02.api.letsencrypt.org
+r3.o.lencr.org
+ocsp.int-x3.letsencrypt.org
