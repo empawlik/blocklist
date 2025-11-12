@@ -52,3 +52,4 @@ letsencrypt.org
 acme-v02.api.letsencrypt.org
 r3.o.lencr.org
 ocsp.int-x3.letsencrypt.org
+control.adt.com
