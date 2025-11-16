@@ -53,3 +53,17 @@ acme-v02.api.letsencrypt.org
 r3.o.lencr.org
 ocsp.int-x3.letsencrypt.org
 control.adt.com
+update.qnap.com
+download.qnap.com
+eu1.qnap.com
+us1.qnap.com
+cn1.qnap.com
+licenses.qnap.com
+account.qnap.com
+auth.qnap.com
+service.qnap.com
+qvpn.qnap.com
+api.myqnapcloud.com
+ai.qnap.com
+helpdesk.qnap.com
+ssl.myqnapcloud.com
