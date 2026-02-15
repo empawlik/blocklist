@@ -1,0 +1,17 @@
+# Docker Desktop Core & Updates
+desktop.docker.com
+hub.docker.com
+registry-1.docker.io
+production.cloudflare.docker.com
+
+# Authentication & Account
+auth.docker.io
+login.docker.com
+
+# Extensions & Images
+pwa.docker.com
+docker-pinata-support.s3.amazonaws.com
+
+# Telemetry & Error Reporting (Optional but recommended for stability)
+api.segment.io
+sentry.io
